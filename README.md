@@ -1,7 +1,7 @@
 ﻿**Proyecto**: Sistema de detección y reconocimiento de letras y números en placas
 
 <div align="center">
-  <video src="video_DTplacas.mp4" controls width="600"></video>
+  <video src="https://github.com/harrison314790/modelo_deteccion_letra_numero_placa/blob/main/video_DTplacas.mp4" controls width="600"></video>
 </div>
 
 - **Lenguaje**: Python

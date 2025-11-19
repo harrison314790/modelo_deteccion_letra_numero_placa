@@ -4,7 +4,7 @@ import numpy as np
 
 
 # ============================================================
-# === Cargar base de datos de placas registradas ===
+#    === Cargar base de datos de placas registradas ===
 # ============================================================
 
 with open("placas_registradas.json", "r", encoding="utf-8") as f:

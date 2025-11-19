@@ -1,7 +1,8 @@
 ﻿**Proyecto**: Sistema de detección y reconocimiento de letras y números en placas
 
 ### 🎥 Video demostración del modelo  
-➡️ [Haz clic para ver el video](https://github.com/harrison314790/modelo_deteccion_letra_numero_placa/blob/main/video_DTplacas.mp4)
+
+https://github.com/user-attachments/assets/bb2f609f-c5f9-4f0b-8578-9234eab2ada0
 
 
 - **Lenguaje**: Python

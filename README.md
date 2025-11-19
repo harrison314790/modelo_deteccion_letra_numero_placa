@@ -1,4 +1,4 @@
-﻿**Proyecto**: Sistema de detección y reconocimiento de letras y números en placas
+#### ﻿**Proyecto**: Sistema de detección y reconocimiento de letras y números en placas
 
 ### 🎥 Video demostración del modelo  
 

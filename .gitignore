@@ -44,6 +44,7 @@ htmlcov/
 .coverage.*
 .cache
 nosetests.xml
+deepface_env
 coverage.xml
 *.cover
 *.py.cover

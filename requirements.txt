@@ -1,11 +1,31 @@
+# ============================================
+# DEPENDENCIAS PARA VENV 3.11.8 PRINCIPAL
+# Detección de placas + OCR + Consultas Supabase
+# ============================================
+
+# YOLO - Detección de placas
 ultralytics==8.3.209
 torch==2.8.0
+
+# OCR - Lectura de letras y números
 easyocr==1.7.2
-pillow==11.3.0
-opencv-python==4.10.0.84
-opencv-contrib-python==4.10.0.84
 paddleocr==3.3.2
 paddlepaddle==3.2.2
-numpy==2.2.6
+
+# Visión por computadora
+opencv-python==4.10.0.84
+opencv-contrib-python==4.10.0.84
+Pillow==11.3.0
+
+# Base de datos y API
 supabase==2.24.0
+requests==2.31.0
+
+# Utilidades
+numpy==2.2.6
 python-dotenv==1.2.1
+
+# ============================================
+# NOTA: Para el venv deepface (3.10.11)
+# Instala: pip install -r face/requirements.txt
+# ============================================
